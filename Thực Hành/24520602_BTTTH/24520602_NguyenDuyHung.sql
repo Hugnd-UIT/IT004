@@ -2,6 +2,7 @@
 
 -- Mật khẩu: 12345@789
 
+-- Cau 1
 CREATE DATABASE THUCHANH
 
 USE THUCHANH
